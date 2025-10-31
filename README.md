@@ -24,8 +24,8 @@
 ### 📊 GitHub Stats
 ![Phuoc's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngocphuoc06&show_icons=true&theme=tokyonight)
 
-### 🔥 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngocphuoc06&layout=compact&theme=tokyonight)
+### 🐍 My Main Language
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
